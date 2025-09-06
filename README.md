@@ -26,7 +26,7 @@ The dApp allows users to interact with a shopping cart in a decentralized way, e
 ---
 
 ## 🔗 Deployed Smart Contract  
-`XXX`
+MPFBLC6MAI53RH4RZYNIMS772ZKPEA3GUWX4RBQZR5A2WCYOG6ZMZSDV3Q
 
 ---
 

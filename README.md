@@ -2,7 +2,8 @@
 
 A simple decentralized shopping cart application built on **Algorand** using **TypeScript Smart Contracts**.  
 This project demonstrates how to build and interact with a smart contract that manages a cart on-chain.
-
+<img width="1600" height="771" alt="image" src="https://github.com/user-attachments/assets/b47c30a3-49ad-4157-94c2-66b19342fb35" />
+https://lora.algokit.io/testnet/application/745518501
 ---
 
 ## 📖 Project Description
